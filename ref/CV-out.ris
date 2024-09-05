@@ -13,3 +13,11 @@ PY  - 2024
 UR  - https://github.com/Lightbridge-KS/moodleStats
 N1  - R package version 0.1.0, https://lightbridge-ks.github.io/moodleStats/
 ER  - 
+
+TY  - MANUAL
+AU  - Kittipos Sirivongrungson
+TI  - moodleQuiz: A High-level R Package for Manipulation of Moodle Quiz Report
+PY  - 2024
+UR  - https://github.com/Lightbridge-KS/moodleQuiz
+N1  - R package version 0.1.1, https://lightbridge-ks.github.io/moodleQuiz/
+ER  - 
