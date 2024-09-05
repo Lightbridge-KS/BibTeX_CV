@@ -1,0 +1,15 @@
+TY  - MANUAL
+AU  - Kittipos Sirivongrungson
+TI  - thaipdf: R Markdown to PDF in Thai Language
+PY  - 2022
+UR  - https://CRAN.R-project.org/package=thaipdf
+N1  - R package version 0.1.2
+ER  - 
+
+TY  - MANUAL
+AU  - Kittipos Sirivongrungson
+TI  - moodleStats: Analysis of Moodle Quiz Report
+PY  - 2024
+UR  - https://github.com/Lightbridge-KS/moodleStats
+N1  - R package version 0.1.0, https://lightbridge-ks.github.io/moodleStats/
+ER  - 
